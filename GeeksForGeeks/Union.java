@@ -1,6 +1,6 @@
 // User function Template for Java
 
-class Solution {
+class Union {
     
     public int find_par(int v,int par[]){
         if(par[v]==v)
