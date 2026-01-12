@@ -17,5 +17,6 @@ class GFG {
         System.out.println(c);
         System.out.println(d);
         System.out.println(s1+" "+s2+" "+s3);
+        s.close();
     }
 }
