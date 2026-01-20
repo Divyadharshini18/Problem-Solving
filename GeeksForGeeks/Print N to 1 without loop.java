@@ -1,8 +1,8 @@
 class Solution{
-    void printNos(int N) {
+    void recursion(int N) {
         if(N==0)
             return;
         System.out.print(N+" ");
-        printNos(N-1);
+        recursion(N-1);
     }
 }
