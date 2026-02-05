@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     public int spanningTree(int V, int[][] edges) {
         // code here
