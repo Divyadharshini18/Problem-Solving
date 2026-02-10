@@ -11,5 +11,6 @@ public class Solution1703A {
             else
                 System.out.println("NO");
         }
+        s.close();
     }
 }
