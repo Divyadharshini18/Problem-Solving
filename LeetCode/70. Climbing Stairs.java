@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution1 {
     public static int noOfWaysToClimb(int n,int[] dp){
         if(n<=2){
